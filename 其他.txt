@@ -1,9 +1,10 @@
 国家地理,#genre#
+国家地理(美国),http://139.180.210.242/php/youtube.php?id=306xLRnW3Cc
+国家地理野生(美国),http://139.180.210.242/php/youtube.php?id=6zGV59Ldp3s
+
 国家地理(美国),https://ytb.simui.xyz/live?rid=306xLRnW3Cc
 国家地理野生(美国),https://ytb.simui.xyz/live?rid=6zGV59Ldp3s
 
-国家地理(美国),http://139.180.210.242/php/youtube.php?id=306xLRnW3Cc
-国家地理野生(美国),http://139.180.210.242/php/youtube.php?id=6zGV59Ldp3s
 国家地理(台湾),http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 国家地理(台湾),http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
 国家地理(台湾),http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
@@ -17,15 +18,15 @@
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 
-ANIMALS OF AFRICA 4K,https://ytb.simui.xyz/live?rid=XHI_U7suyxg
-GREAT HUNTER - 4K,https://ytb.simui.xyz/live?rid=vQP8AwAFzI8
-Most Beautiful Places 12K,https://ytb.simui.xyz/live?rid=Rse-E5tARaY
-4K African Animal,https://ytb.simui.xyz/live?rid=rkPCR6Ujtak
-
 ANIMALS OF AFRICA 4K,http://139.180.210.242/php/youtube.php?id=XHI_U7suyxg
 GREAT HUNTER - 4K,http://139.180.210.242/php/youtube.php?id=vQP8AwAFzI8
 Most Beautiful Places 12K,http://139.180.210.242/php/youtube.php?id=Rse-E5tARaY
 4K African Animal,http://139.180.210.242/php/youtube.php?id=rkPCR6Ujtak
+
+ANIMALS OF AFRICA 4K,https://ytb.simui.xyz/live?rid=XHI_U7suyxg
+GREAT HUNTER - 4K,https://ytb.simui.xyz/live?rid=vQP8AwAFzI8
+Most Beautiful Places 12K,https://ytb.simui.xyz/live?rid=Rse-E5tARaY
+4K African Animal,https://ytb.simui.xyz/live?rid=rkPCR6Ujtak
 
 探索频道,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 探索频道,http://50.7.238.114:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
@@ -38,38 +39,6 @@ Most Beautiful Places 12K,http://139.180.210.242/php/youtube.php?id=Rse-E5tARaY
 
 
 台湾,#genre#
-台视新闻,https://ytb.simui.xyz/live?rid=xL0ch83RAK8
-中视新闻,https://ytb.simui.xyz/live?rid=TCnaIE_SAtM
-民视新闻,https://ytb.simui.xyz/live?rid=ylYJSBUgaMA
-华视新闻,https://ytb.simui.xyz/live?rid=wM0g8EoUZ_E
-公视新闻,https://ytb.simui.xyz/live?rid=quwqlazU-c8
-TaiwanPlus,https://ytb.simui.xyz/live?rid=dZp87qnWelE
-镜新闻,https://ytb.simui.xyz/live?rid=5n0y6b0Q25o
-凤凰卫视,https://ytb.simui.xyz/live?rid=if6yQq_JJyY
-TVBS新闻,https://ytb.simui.xyz/live?rid=2mCSYvcfhtc
-TVBS NEWS LIVE,https://ytb.simui.xyz/live?rid=m_dhMSvUCIc
-TVBS 56频道,https://ytb.simui.xyz/live?rid=YvdcZ_jpLXE
-中天新闻,https://ytb.simui.xyz/live?rid=oIgbl7t0S_w
-中天新闻2台,https://ytb.simui.xyz/live?rid=WPfPjbOLNfE
-寰宇新闻全球台,https://ytb.simui.xyz/live?rid=B7Zp3d6xXWw
-寰宇新闻台湾台,https://ytb.simui.xyz/live?rid=UcTIv4ZaE5Y
-东森新闻,https://ytb.simui.xyz/live?rid=S5WOGu2HSes
-东森LIVE,https://ytb.simui.xyz/live?rid=R2iMq5LKXco
-东森财经新闻,https://ytb.simui.xyz/live?rid=WHEPzbFA3hw
-三立新闻,https://ytb.simui.xyz/live?rid=oZdzzvxTfUY
-三立 iNEWS 新闻,https://ytb.simui.xyz/live?rid=CKjSm5ZeehE
-三立海外直播,https://ytb.simui.xyz/live?rid=FoBfXvlOR6I
-东京都-新宿,https://ytb.simui.xyz/live?rid=DjdUEyjx8GM
-台湾地震监视,https://ytb.simui.xyz/live?rid=Owke6Quk7T0
-新唐人LIVE,https://ytb.simui.xyz/live?rid=WIhgU_mc05A
-信大电视台,https://ytb.simui.xyz/live?rid=AQymzwl3uSk
-DW,https://ytb.simui.xyz/live?rid=pqabxBKzZ6M
-FRANCE 24,https://ytb.simui.xyz/live?rid=h3MuIUNCCzI
-Sky News,https://ytb.simui.xyz/live?rid=9Auq9mYxFEE
-ABC News,https://ytb.simui.xyz/live?rid=w_Ma8oQLmSM
-Euronews,https://ytb.simui.xyz/live?rid=pykpO5kQJ98
-CNA,https://ytb.simui.xyz/live?rid=XWq5kBlakcQ
-
 台视新闻,http://139.180.210.242/php/youtube.php?id=xL0ch83RAK8
 中视新闻,http://139.180.210.242/php/youtube.php?id=TCnaIE_SAtM
 民视新闻,http://139.180.210.242/php/youtube.php?id=ylYJSBUgaMA
@@ -102,7 +71,37 @@ ABC News,http://139.180.210.242/php/youtube.php?id=w_Ma8oQLmSM
 Euronews,http://139.180.210.242/php/youtube.php?id=pykpO5kQJ98
 CNA,http://139.180.210.242/php/youtube.php?id=XWq5kBlakcQ
 
-
+台视新闻,https://ytb.simui.xyz/live?rid=xL0ch83RAK8
+中视新闻,https://ytb.simui.xyz/live?rid=TCnaIE_SAtM
+民视新闻,https://ytb.simui.xyz/live?rid=ylYJSBUgaMA
+华视新闻,https://ytb.simui.xyz/live?rid=wM0g8EoUZ_E
+公视新闻,https://ytb.simui.xyz/live?rid=quwqlazU-c8
+TaiwanPlus,https://ytb.simui.xyz/live?rid=dZp87qnWelE
+镜新闻,https://ytb.simui.xyz/live?rid=5n0y6b0Q25o
+凤凰卫视,https://ytb.simui.xyz/live?rid=if6yQq_JJyY
+TVBS新闻,https://ytb.simui.xyz/live?rid=2mCSYvcfhtc
+TVBS NEWS LIVE,https://ytb.simui.xyz/live?rid=m_dhMSvUCIc
+TVBS 56频道,https://ytb.simui.xyz/live?rid=YvdcZ_jpLXE
+中天新闻,https://ytb.simui.xyz/live?rid=oIgbl7t0S_w
+中天新闻2台,https://ytb.simui.xyz/live?rid=WPfPjbOLNfE
+寰宇新闻全球台,https://ytb.simui.xyz/live?rid=B7Zp3d6xXWw
+寰宇新闻台湾台,https://ytb.simui.xyz/live?rid=UcTIv4ZaE5Y
+东森新闻,https://ytb.simui.xyz/live?rid=S5WOGu2HSes
+东森LIVE,https://ytb.simui.xyz/live?rid=R2iMq5LKXco
+东森财经新闻,https://ytb.simui.xyz/live?rid=WHEPzbFA3hw
+三立新闻,https://ytb.simui.xyz/live?rid=oZdzzvxTfUY
+三立 iNEWS 新闻,https://ytb.simui.xyz/live?rid=CKjSm5ZeehE
+三立海外直播,https://ytb.simui.xyz/live?rid=FoBfXvlOR6I
+东京都-新宿,https://ytb.simui.xyz/live?rid=DjdUEyjx8GM
+台湾地震监视,https://ytb.simui.xyz/live?rid=Owke6Quk7T0
+新唐人LIVE,https://ytb.simui.xyz/live?rid=WIhgU_mc05A
+信大电视台,https://ytb.simui.xyz/live?rid=AQymzwl3uSk
+DW,https://ytb.simui.xyz/live?rid=pqabxBKzZ6M
+FRANCE 24,https://ytb.simui.xyz/live?rid=h3MuIUNCCzI
+Sky News,https://ytb.simui.xyz/live?rid=9Auq9mYxFEE
+ABC News,https://ytb.simui.xyz/live?rid=w_Ma8oQLmSM
+Euronews,https://ytb.simui.xyz/live?rid=pykpO5kQJ98
+CNA,https://ytb.simui.xyz/live?rid=XWq5kBlakcQ
 
 4gtv,#genre#
 民视新闻台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv13
