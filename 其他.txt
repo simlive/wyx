@@ -1,7 +1,4 @@
 国家地理,#genre#
-国家地理(美国),http://139.180.210.242/php/youtube.php?id=306xLRnW3Cc
-国家地理野生(美国),http://139.180.210.242/php/youtube.php?id=6zGV59Ldp3s
-
 国家地理(美国),https://ytb.simui.xyz/live?rid=306xLRnW3Cc
 国家地理野生(美国),https://ytb.simui.xyz/live?rid=6zGV59Ldp3s
 
@@ -18,10 +15,6 @@
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 
-ANIMALS OF AFRICA 4K,http://139.180.210.242/php/youtube.php?id=XHI_U7suyxg
-GREAT HUNTER - 4K,http://139.180.210.242/php/youtube.php?id=vQP8AwAFzI8
-Most Beautiful Places 12K,http://139.180.210.242/php/youtube.php?id=Rse-E5tARaY
-4K African Animal,http://139.180.210.242/php/youtube.php?id=rkPCR6Ujtak
 
 ANIMALS OF AFRICA 4K,https://ytb.simui.xyz/live?rid=XHI_U7suyxg
 GREAT HUNTER - 4K,https://ytb.simui.xyz/live?rid=vQP8AwAFzI8
@@ -39,38 +32,6 @@ Most Beautiful Places 12K,https://ytb.simui.xyz/live?rid=Rse-E5tARaY
 
 
 台湾,#genre#
-台视新闻,http://139.180.210.242/php/youtube.php?id=xL0ch83RAK8
-中视新闻,http://139.180.210.242/php/youtube.php?id=TCnaIE_SAtM
-民视新闻,http://139.180.210.242/php/youtube.php?id=ylYJSBUgaMA
-华视新闻,http://139.180.210.242/php/youtube.php?id=wM0g8EoUZ_E
-公视新闻,http://139.180.210.242/php/youtube.php?id=quwqlazU-c8
-TaiwanPlus,http://139.180.210.242/php/youtube.php?id=dZp87qnWelE
-镜新闻,http://139.180.210.242/php/youtube.php?id=5n0y6b0Q25o
-凤凰卫视,http://139.180.210.242/php/youtube.php?id=if6yQq_JJyY
-TVBS新闻,http://139.180.210.242/php/youtube.php?id=2mCSYvcfhtc
-TVBS NEWS LIVE,http://139.180.210.242/php/youtube.php?id=m_dhMSvUCIc
-TVBS 56频道,http://139.180.210.242/php/youtube.php?id=YvdcZ_jpLXE
-中天新闻,http://139.180.210.242/php/youtube.php?id=oIgbl7t0S_w
-中天新闻2台,http://139.180.210.242/php/youtube.php?id=WPfPjbOLNfE
-寰宇新闻全球台,http://139.180.210.242/php/youtube.php?id=B7Zp3d6xXWw
-寰宇新闻台湾台,http://139.180.210.242/php/youtube.php?id=UcTIv4ZaE5Y
-东森新闻,http://139.180.210.242/php/youtube.php?id=S5WOGu2HSes
-东森LIVE,http://139.180.210.242/php/youtube.php?id=R2iMq5LKXco
-东森财经新闻,http://139.180.210.242/php/youtube.php?id=WHEPzbFA3hw
-三立新闻,http://139.180.210.242/php/youtube.php?id=oZdzzvxTfUY
-三立 iNEWS 新闻,http://139.180.210.242/php/youtube.php?id=CKjSm5ZeehE
-三立海外直播,http://139.180.210.242/php/youtube.php?id=FoBfXvlOR6I
-东京都-新宿,http://139.180.210.242/php/youtube.php?id=DjdUEyjx8GM
-台湾地震监视,http://139.180.210.242/php/youtube.php?id=Owke6Quk7T0
-新唐人LIVE,http://139.180.210.242/php/youtube.php?id=WIhgU_mc05A
-信大电视台,http://139.180.210.242/php/youtube.php?id=AQymzwl3uSk
-DW,http://139.180.210.242/php/youtube.php?id=pqabxBKzZ6M
-FRANCE 24,http://139.180.210.242/php/youtube.php?id=h3MuIUNCCzI
-Sky News,http://139.180.210.242/php/youtube.php?id=9Auq9mYxFEE
-ABC News,http://139.180.210.242/php/youtube.php?id=w_Ma8oQLmSM
-Euronews,http://139.180.210.242/php/youtube.php?id=pykpO5kQJ98
-CNA,http://139.180.210.242/php/youtube.php?id=XWq5kBlakcQ
-
 台视新闻,https://ytb.simui.xyz/live?rid=xL0ch83RAK8
 中视新闻,https://ytb.simui.xyz/live?rid=TCnaIE_SAtM
 民视新闻,https://ytb.simui.xyz/live?rid=ylYJSBUgaMA
@@ -103,27 +64,6 @@ ABC News,https://ytb.simui.xyz/live?rid=w_Ma8oQLmSM
 Euronews,https://ytb.simui.xyz/live?rid=pykpO5kQJ98
 CNA,https://ytb.simui.xyz/live?rid=XWq5kBlakcQ
 
-4gtv,#genre#
-民视新闻台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv13
-寰宇新闻台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn14
-华视新闻信息台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv052
-民视旅游台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv07
-i-Fun动漫台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv15
-爱尔达娱乐台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv070
-民视台湾台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv001
-中视新闻台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv074
-影迷数字电影台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv011
-靖天日本台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv047
-龙华日韩台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn11
-公视戏剧,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv042
-民视无线台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv002
-CNEX纪实频道,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv013
-龙华电影台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn03
-民视综艺台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv004
-ELTV生活英语台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn20
-中视无线台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv040
-民视第一台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv003
-半岛电视台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv10
 
 
 香港,#genre#
