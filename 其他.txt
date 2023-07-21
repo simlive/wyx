@@ -64,7 +64,7 @@ ABC News,https://ytb.simui.xyz/live?rid=w_Ma8oQLmSM
 Euronews,https://ytb.simui.xyz/live?rid=pykpO5kQJ98
 CNA,https://ytb.simui.xyz/live?rid=XWq5kBlakcQ
 
-4gTVTS,#genre#
+4gTV,#genre#
 民视第一台,http://4gtv.simui.xyz/live?rid=4gtv-4gtv003
 民视台湾台,http://4gtv.simui.xyz/live?rid=4gtv-4gtv001
 民视,http://4gtv.simui.xyz/live?rid=4gtv-4gtv002
@@ -96,37 +96,6 @@ CI 罪案侦查频道,http://4gtv.simui.xyz/live?rid=4gtv-live027
 VOA美国之音,http://4gtv.simui.xyz/live?rid=litv-ftv03
 CNBC Asia 财经台,http://4gtv.simui.xyz/live?rid=4gtv-live130
 
-4gTVnoTS,#genre#
-民视第一台,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv003
-民视台湾台,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv001
-民视,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv002
-大爱电视,http://4gtvnots.simui.xyz/live?rid=4gtv-live007
-中视,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv040
-爱尔达娱乐台,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv070
-靖天日本台,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv047
-ELTV生活英语台,http://4gtvnots.simui.xyz/live?rid=litv-longturn20
-i-Fun动漫台,http://4gtvnots.simui.xyz/live?rid=litv-ftv15
-华视新闻,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv052
-民视新闻台,http://4gtvnots.simui.xyz/live?rid=litv-ftv13
-中视新闻,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv074
-中天新闻台,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv009
-寰宇新闻台,http://4gtvnots.simui.xyz/live?rid=litv-longturn14
-民视综艺台,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv004
-MTV Live HD 音乐频道,http://4gtvnots.simui.xyz/live?rid=4gtv-live025
-民视旅游台,http://4gtvnots.simui.xyz/live?rid=litv-ftv07
-幸福空间居家台,http://4gtvnots.simui.xyz/live?rid=4gtv-live206
-Love Nature,http://4gtvnots.simui.xyz/live?rid=4gtv-live208
-History 历史频道,http://4gtvnots.simui.xyz/live?rid=4gtv-live026
-公视戏剧,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv042
-龙华日韩台,http://4gtvnots.simui.xyz/live?rid=litv-longturn11
-CI 罪案侦查频道,http://4gtvnots.simui.xyz/live?rid=4gtv-live027
-视纳华仁纪实频道,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv013
-靖天电影台,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv061
-龙华电影台,http://4gtvnots.simui.xyz/live?rid=litv-longturn03
-影迷数位电影台,http://4gtvnots.simui.xyz/live?rid=4gtv-4gtv011
-半岛国际新闻台,http://4gtvnots.simui.xyz/live?rid=litv-ftv10
-VOA美国之音,http://4gtvnots.simui.xyz/live?rid=litv-ftv03
-CNBC Asia 财经台,http://4gtvnots.simui.xyz/live?rid=4gtv-live130
 
 
 香港,#genre#
